@@ -1,5 +1,3 @@
-<img width="316" alt="截圖 2024-02-21 晚上9 29 30" src="https://github.com/hsu5211/2024-Spring-HW0/assets/141152413/84e6b34a-367e-4551-99c3-84cf831194b7">## Foundry
-
 **Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
 
 Foundry consists of:
