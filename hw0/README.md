@@ -1,5 +1,5 @@
-Wallet address:"0x00056CAba996e1E8C6CF8d04Ae8e3180159E2094"
-
+Wallet address : "0x00056CAba996e1E8C6CF8d04Ae8e3180159E2094"
+Contract address : "0xbCe50eaf662A50DeCBAa7d7Ac9F36E1dDA2D82A7" 
 
 <img width="316" alt="截圖 2024-02-21 晚上9 29 30" src="https://github.com/hsu5211/2024-Spring-HW0/assets/141152413/2c1d25ba-f9c5-466f-af07-56b86c7cb3ab">
 
